@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kRCd6DG27hGFy7eqycZJFrAhcqSqWJ/YHYMDn1TtWLw=",
+  "Hash": "QmgA4pCq82dI7TmGLxUJp5AwFjZrfI5FssgvRxPwiSg=",
   "Source": "TestTask_BO",
   "BasePath": "_content/TestTask_BO",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Владелец\\source\\repos\\TestTask_BO\\wwwroot\\files\\cervs.csv",
+      "SourceId": "TestTask_BO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Владелец\\source\\repos\\TestTask_BO\\wwwroot\\",
+      "BasePath": "_content/TestTask_BO",
+      "RelativePath": "files/cervs.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\cervs.csv"
     },
     {
       "Identity": "C:\\Users\\Владелец\\source\\repos\\TestTask_BO\\wwwroot\\js\\site.js",
